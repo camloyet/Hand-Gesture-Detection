@@ -16,13 +16,11 @@ Dataset Contribution: Contributes to the development of a hand gesture dataset, 
 ## Getting Started
 Clone the repository:
 
-```bash
-git clone https://github.com/your-username/hand-gesture-recognition.git
+```git clone https://github.com/your-username/hand-gesture-recognition.git
 
 Install the required libraries:
-pip install tensorflow mediapipe opencv-python
+```pip install tensorflow mediapipe opencv-python
 
 Run the main script:
-
-```bash
+```
 app.py
