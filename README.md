@@ -17,11 +17,11 @@ Dataset Contribution: Contributes to the development of a hand gesture dataset, 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hand-gesture-recognition.git
+git clone https://github.com/your-username/hand-gesture-recognition.git```
 
 Install the required dependencies:
 ```bash
-pip install -r requirements.txt
+pip install tensorflow mediapipe opencv-python
 
 Run the main script:
 
